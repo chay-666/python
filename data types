@@ -1,0 +1,12 @@
+a=100
+print("variable type:",type(a))
+b=12.9
+print("variable type:",type(a))
+c=19+j
+print("variable type:",type(a))
+d="string in double quote"
+e='string in single quote'
+print(d)
+print(e)
+print(a,"concated with",b)
+print(a+"concated with"+b)
